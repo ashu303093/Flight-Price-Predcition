@@ -2,6 +2,9 @@
 
 This is a Flask web app which predicts fare of Flight ticket.
 
+## Application Link
+https://flightpriceprediction3030.herokuapp.com/
+
 ## Technologies used
 Python , Flask , Scikit-learn
 
